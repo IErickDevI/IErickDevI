@@ -2,6 +2,7 @@
 - 👀 Me gusta aprender de las nuevas tecnologias que hay hoy en día.
 - 🌱 Programming the Future
 - 🌱 Conocimientos en HTML, CSS, Javascript, PHP, MySQL, SQL Server.
+- 🚀🚀🚀Actualmente estoy aprendiendo VueJS🚀🚀🚀
 
 <!---
 IErickDevI/IErickDevI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
