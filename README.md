@@ -1,8 +1,9 @@
 - 👋 Me llamo Erick soy Tecnico Analista Programador
-- 👀 Me gusta aprender de las nuevas tecnologias que hay hoy en día.
+- Estudiante de Ingenieria en Informatica ( 67% completado )
+- En constante aprendizaje, actualmente en Python
 - 🌱 Programming the Future
 - 🌱 Conocimientos en HTML, CSS, Javascript, PHP, MySQL, SQL Server.
-- 🚀🚀🚀Actualmente estoy aprendiendo VueJS🚀🚀🚀
+
 
 <!---
 IErickDevI/IErickDevI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
