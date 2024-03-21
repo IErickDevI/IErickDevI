@@ -2,7 +2,7 @@
 - Estudiante de Ingenieria en Informatica ( 67% completado )
 - En constante aprendizaje, actualmente en Python
 - 🌱 Programming the Future
-- 🌱 Conocimientos en HTML, CSS, Javascript, PHP, MySQL, SQL Server.
+- 🌱 Conocimientos en HTML, CSS, Javascript, PHP, MySQL, SQL Server, MongoDB
 
 
 <!---
