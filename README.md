@@ -1,7 +1,3 @@
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/37626908?s=400&u=c233d18778ba75b7e64751b1614f3a2c5e2c3d8e&v=4"  />
-
-###
-
 <h1 align="left">Hola, mi nombre es Erik Cáceres👋</h1>
 
 ###
